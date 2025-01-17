@@ -4,7 +4,7 @@
 
 This project is a data visualization dashboard that showcases customer complaints categorized by product types, request methods, year trends, and state-wise distribution. The purpose of this dashboard is to provide insights into the distribution and trends of customer complaints across various categories and geographical regions.
 
-![Dashboard Preview](dashboard_image) *(Replace this with your dashboard image URL)*
+![Dashboard Preview](dashboard_image) 
 
 ---
 
